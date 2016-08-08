@@ -1,0 +1,420 @@
+Copyright 2016, Tsuzy LLC. All Rights Reserved.
+
+[[[__1D:Ep1: Super Stealth]]]
+
+Suzy transforms Norm into the Robot, and they brainstorm about starting a company. Rhyming is used to bootstrap the major themes of The Show.
+
+[[Prologue]]
+
+[Suzy] Hey everyone!  Welcome to the real first episode of the TheSuzy.com Show!  Auth and I will begin with a skit, and then I'll have a conversation with a person named Norm, who can be described by the equation: Auth minus Suzy equals Norm.  Ok, Auth.  Take me away!
+
+[Auth] (NORM) Hello.  The world has many problems, but Suzy is a solution.  She didn't have a clue what she was doin', but she learned from other divas who have their own shows.
+
+[Suzy] (MEDITATING IN CROW POSE) Hey stranger, what's up?  Your confidence seems low.  Can I give your social brain a tow?
+
+[Auth] (MAKEUP, GEEK 2.0) Was that a mental judo throw?  Whatever.  Now that we've threaded the needle several times in a row, we can sew a pattern that will continue to grow.
+
+[Suzy] (DOES A HEADSTAND) Whoa, your metaphor is so, thorough.  Tell me something I don't already know! (FALLS OVER, LAUGHING)
+
+[Auth] (HAIR, GEEK 1.0) Oh!  I can feel the winds of change beginning to blow.  I'm a prime factor.  Suzy is a strange attractor.  Our fusion could be hotter than a nuclear reactor.  We could appropriate a robot army and negotiate like an anonymous state actor.  Let's tempt fate by hacking into an autonomous tractor!
+
+[Suzy] (STANDS UP) You're a courageous knight, and this isn't a fight.  The status quo is sort of all right. (ROLLS EYES)  This latest round of infectious blight will inspire an insight.  Put down your lance, adjust your stance, and take a chance that might lead to romance.  If you're happy like me, you'll grow like a tree.  We could run for queen bee!
+
+[Auth] (PARTY DRESS, ROBOT) This show is an autobiographical jaunt, but I have no desire to taunt.  This is my cabaret restaurant.  I want to flaunt my wildest thought about being, sustenance, health, death, conception, birth, and spiritual rebirth.
+
+[Suzy] (BALANCE BALL) Wow!  Much elation!  Art can stabilize the flow of cultural appropriation.  Let's lay an intellectual foundation for upending social stratification!
+
+[Auth] (ARMOR, PIRATE) My app will prepare the nation for Suzification.  No worries!  It's pre-installed it on your mobile battle station.  We'll start with a quick review of multivariable integration and then focus relentlessly on automation.  My food for thought is like wine.  You can enjoy it while you dine.
+
+[Suzy] (SITS ON BALL) Oh no, the pleasure is all mine.  I'd prefer to share a pineapple in the bright sunshine.  I'm looking for a sign that the universe has a design, but I respect your aspiration.  You clearly have the right motivation.  How will you show your appreciation?
+
+[Auth] (ACCESSORIES, REVOLUTIONARY) Our subtle air of expectation floats above an ocean of missed sensation.  I want to vote for steeper tax gradation and take a vacation, but the industrialization of imitation is fueling a conflagration of concealed indignation.  That's why I'm building a framework for public sector participation.  Everyone's born with an imagination, so let's bring character creation into the rotation alongside the dynamics of wealth accumulation.
+
+[Suzy] (ON BALL WITH COMPUTER) That was quite a verbal aggregation, but your message will get corrupted in translation.  You should express the message as a data cube relation and then replace frustration with a coronation! (HAPPY SUZY)  But now I'm curious, does your framework provide funding for space exploration?
+
+[Auth] (DIVA) I just had a revelation.  I'm superstitious.  Suzy is fictitious, but her food for thought is delicious and nutritious.  The world can be pernicious, but together, we can unwind the vicious.  Life is not about seeking treasure, getting my phone to tether (THROWS PHONE), or enjoying the weather.  It's about building friendships that might last forever.  You'll never know what's true, so don't spend this whole flight feeling lonely and blue.  Without further ado, I invite you to try my conceptual relationship stew.  The recipe is both old and new.  Please leave a comment when you're through! (SUZY SMILE)
+
+[[Message from the Captain]]
+
+[Suzy] But first, we have a quick message from our sponsor, The Captain.
+
+[Captain] Hi.  I'm the Captain.  I represent the technology that defines the frame for TheSuzy.com Show.  We'll be talking about the idea of framing throughout The Show.  Alright, back to you, Suzy.
+
+[Suzy] Watching our show is like learning to program computers!  But now I'm confused.  I'm a feminine person.  Why does a masculine character represent the technology that frames our show?  Let's bring out The Captain's feminine side by the end of the first six episodes.
+
+[Captain] Sorry to interrupt, but why do you want the audience to think so hard?  Keep it light.  Like beer. (DRINKS HOME BREWED BEER)  You should organize flash mobs of people dressed like you who teach each other how to program computers, and don't forget to have a film crew capture the magic.
+
+[Suzy] That's not enough!  I'm inspired by the people who built the first machines, compilers, operating systems, networks, and social mobile local apps.  The people dressed like me could build a distributed database of public policy ideas.  We could get jobs in every corner of the public sector, and then, when enough bureaucratic processes have been automated, two million divas who attend engineering flash mobs will unveil a nationwide strategy to restore the American dream for everyone!
+
+[Captain] I'm all about inviting people to embrace discipline, hierarchy, and the (EMPH) pride (DONE) that comes with wearing a uniform.
+
+[Suzy] HWUH HWUH HWUH HWUH
+
+[Captain] Alright, I'll cut to the chase.  Why're you messin' around with such a far fetched idea?  You're in the big leagues now.  If you let 'em see you cogitate, they'll think you're trying to be something you're not.
+
+[Suzy] That's the human condition, my friend.  Cave people invented new ways to hunt because they were hungry.  Our lives are more comfortable because we have apps that map out the food options that exist at any point in the time space continuum, but someone had to think real hard (WE CAN DO IT FIST) in order to implement those apps.
+
+[Captain] Explain it to me like I'm a five year old. (CROSSES ARMS)
+
+[Suzy] You say tinker, I say thinker.  You say inventor, I say implementer.  You say "I'm the captain."  I say, "I'm what's about to happen."  (MAKES STRONG EYE CONTACT WITH THE CAPTAIN)
+
+[Captain] Now you're talking like a person who means business.  I'll let you get back to The Show.  I've gotta go convince some politicians to make compromises and do what's right for the community.
+
+[Suzy] Feel free to chime in anytime, Captain.  I always knew you were one of the good people!  Now, as I was saying, TheSuzy.com Show is a dataset of metaphors that have been cross-referenced with personality traits that have cultural currency.  Our show is a constructivist movement that's based on a character named Suzy who could enrich every valley, beach, and alley.
+
+[Captain] (ASIDE) I bet I could create an alter ego named Sally.  The cross product of Sally and I will speak for itself.  We won't even need a show.
+
+[Sally] Hey everyone, my name is Sally.  It's time for a bull rally, but you're stuck in the galley.  You need to amp your tally.  I'll help you go on a tear.  I make hay, (EMPH) and (DONE) I have great hair.  It's because I worship Laissez Faire. (SMOKES A VAPORIZER)  Hey there Suzaaaay, I can feel your stare! (MYSTERIOUS KISS)
+
+[Suzy] (HOLDS UP BLACK DRESS) You don't say.  I'll ping you next time I visit the bay. (CLEARS THROAT) Anyway, the combination of my writing, my performance, my software, and engagement from the community is a new medium for communication. (CATCHES GLOBE, AUTH FACE)
+
+[[Norm Joins the Revolution]]
+
+[Norm] Hi.  My name is Norm.  I'm a lot like Suzy, but I struggle to conform.  Suzy is centered, but I'm easily fettered.  She tried out for varsity and lettered.  (ROBOTIC) I've got no game unless the board is checkered. (HOLDS UP A CHESS BOARD)  The other characters in TheSuzy.com Show are cookie cutter people that would get laughed out of the room at social events, but Suzy and I are real.
+
+[Suzy] (YOGA SUZY WITH HEELS) Hahahaha! (LOUD) Norm and I spent six years learning to make cross dressing look easy.  Mask characters, tulpas, shamanism, hypnotic trance, and alter egos are terms that have been used throughout history to describe what I'm doing.  I'm inspired by what became possible after the invention of the printing press (CATCHES GLOBE, CAP FACE)
+
+[Norm] Also, I endured a fracture to my right cheekbone while playing hide and seek in college.  (EVIL EYE) My injury is a mask character who raises his lower left eyelid (EVIL EYE WITH FEAR) and drops the right corner of his mouth.
+
+[mSuzy] Hey, sorry to interrupt, I'm a mirror image of Suzy, and I don't notice Norm's facial injury at all.  I don't understand what you people are talking about.
+
+[Norm] Hi mSuzy.  It's nice to meet you.  Look at me in the eyes.  Now look at my face like an artist who's going to draw a portrait.
+
+[mSuzy] (BACKING UP, LIPS PURSED, CHILLING LACK OF HEAD MOVEMENT) Uh.
+
+[mNorm] Hey man, I'm a mirror image of Norm.  I overheard your conversation.  Everyone's asymmetrical in some way.  Our imperfections make us who we are.  Maybe you're expecting people to react negatively.
+
+[Norm] (STARES AT MNORM'S EYES, LONG PAUSE) Thanks for the feedback. (OFFERS HAND FOR HI FIVE)
+
+[mNorm] (LEANS IN, LOOKING CONCERNED) What was that??
+
+[Norm] (DROPS HAND) That's possible.  It's also possible people misread my emotions because of my facial injury.
+
+[mSuzy] No!  I don't see what you're talking about.  You look normal to me.
+
+[Norm] Why's it so important for you to say you can't perceive a facial injury that's easy to see if you observe the world like a scientist?
+
+[mNorm] Duuuude!  Stop worrying about what other people think.  Adjust your internal dialog.  (POINTING) People will see you in whatever way you see yourself.
+
+[Norm] Dude, stop thrashing my frame.  And yes, internal dialog is vital.  It's like The Bible but without a title.
+
+[mSuzy] Come here.  I wanna tell you a secret.  You just have to believe in yourself.  You're a good looking person.  You should be more confident.
+
+[Norm] (SUZY) Awesome!  That's such a nice thing say!  It's been great chatting with you, but I want to get back to pursuing my passion.  Here's my card.  It has a promo code for my app.  Have a wonderful rest of your day!
+
+[mNorm] (CROSS ARMS) Wait, you misunderstood our intentions.  We were trying to be helpful.
+
+[Norm] (SUZY) Thank you so much for your good intentions.  You're the best!  Oh, and it's not too late to get in early on Suzycoin!  Buy as much as you can afford to lose.  In the worst case, it's like paying for an ebook.  Bye!
+
+[mSuzy] Oh cool!  I wish I had my own app.  I'm so jealous of you right now.  Buh bye!! (HEAD TILT SMILE)
+
+[Norm] (TURNING AWAY) I like how we let it be, but why can't those people see they were blatantly talking down to me?  Their thoughts are like a forest canopy that's rooted in weak empathy.  They constantly frame me like a flea because it makes their life easy.  They like to decree I live in a prison for which I hold the key, even though I will never agree.  Their world is a fantasy, but at least I'm theoretically free.  I love this country.
+
+[Suzy] (REVOLUTIONARY) We should always be nice!  Your argument did not suffice.  I'll help you break the ice and pull a cognitive heist that will revISE the pseudo scIenCE they did in collaboration with mice.  They're just looking for someone to smooch, but if you walk away like a sad pooch, your only friend will be hooch.  It's better to exit with a smile and encourage them to buy Suzycoin by the pile.  If we go the extra mile, we can make a bank that's like a swoosh, so don't be aloof.  Help me raise the roof!
+
+[Norm] Are you expecting me to say, "Woof! Woof!"  Why would anyone buy Suzycoins?  Won't it's value eventually go poof?
+
+[Suzy] One of these days the pay it forward thing will happen.  It's like virtual clappin'
+
+[Norm] My wings are flappin' but opportunity is nappin'.  American culture has become twisted up like a vulture.  My identity is the product of the corporate media mulcher.  There is nothing left for me except to be a code slingin' souljah.
+
+[Suzy] (REVOLUTIONARY++) Have faith in humanity!  Now that we run a virtual university, you'll have immunity, surrounded by a community that finds chi in a reality other people cannot see.  So what if I misread your emotion?  Why all the commotion?  Life dealt you an ace, but you're about to death spiral into the ocean.  Turn up the base and join my virtual drag race.  The world's a beautiful place.  We won't leave a trace.  (MAX) Forget the research about your face.  (MIN) Explaining your situation with science will require an alliance and a lot of compliance.  Trust me, I would know.  Let your self reliance show.  Feminize that workflow.  I'm the reason why the cargo planes keep landing.  People are good at understanding, but you're kind of demanding.  I hate it when you act all commanding.  (THAW TO SUZY) Our life has never been better.  America's future has never been wetter, so be a go-getter, wear a tight sweater, and carry yourself like a jet setter.
+
+[Norm] I respect your effort to stake a claim, but you aren't really a dame, and your strategy is lame.  Your rap game is based on a fake frame, and our dataset is hella tame.  We're the same.  All we do is proclaim your show will plant the seeds of fame so everyone can worship your name.  Your show will only bring us public shame.  We'll never be more than a receiver of blame.
+
+[[Suzy Hacks the Revolution]]
+
+[Suzy] (GOD) Oh Norm, you have so much to learn.  (JESTER) Fortunately for you, my show's about to become a grassroots sensation. (GEEK 1.0) I'm a laughing, civic minded person who writes code. (GEEK 2.0) And, more importantly, the semantic web software that powers my show will solve the problem of communicating our truth to other people, (ROBO) and then all of the above will become part of a different wave of economic growth, and (BRITISH PIRATE) we'll become thought leaders in how old web 2.0 software was eating the world but (GLIB CAPTAIN) new web 3.0 software is lifting (EMPH) all (DONE) boats, (COMEDIAN) and then we'll finally know for sure that everyone is crazy, (LOOKS BACK AND FORTH) and it's not just us.
+
+[Norm] Yes, and my show will be just as compelling as yours.  I will write code for several dozen hours a week for several dozen weeks per year for several dozen more years.  That's the most profound story ever told.  The singularity is going to happen during that time, and some coder like me, bless my soul, will get the cycle started.  We're fortunate to live in interesting times.
+
+[Suzy] (NEWSPERSON) Maybe, but we need to focus.  We should (1) climb a mountain instead of using the stair machine, (2) teach programming concepts using plain language, (3) start conversations with famous people, and then, (4) expose the injustice of the ridiculous and unacceptable social norms that no longer apply to us now that we're famous.
+
+[Norm] In the long run, data science will unleash a crosscurrent of results that debunk the pervasive assumptions about human nature that have made our life uncomfortable, but in the short term, you and I are chasing fools gold.
+
+[Suzy] (ROBO) My fellow old soul, we're pleased to inform you that nobody controls the grassy knoll.  The pen is more powerful than the sword, but the dataset is more powerful than the pen, and that's why engineers like us need to be open minded, and we need to be open minded about how we're open minded, and so on.
+
+[Norm] I agree.  A giant turtle supports the world, and that turtle's supported by another turtle beneath it, and so on.  It's turtles all the way down, and the turtle always wins the race.
+
+[Suzy] Shhhh.  I hear something.  Do you hear that?  (MIME) "The dataset.  The dataset!  The dataset!!"  (CLEARS THROAT) It's like a heavenly mantra.  (PUTS ON BLACK DRESS)  According to the dataset, Norm's smoke signals are getting corrupted by the wind, but my patterns of body language are nature's solution to human fallibility.  I'm inspired by what became possible after the invention of the telegraph (CATCHES GLOBE, SERIOUS SUZY)
+
+[Norm] (AUTH) Suzy programmed the driver of her cab.  That's why she runs the lab.  Her style was inspired by a chip fab, but she's never drab!
+
+[Suzy] (AUTHER) Makeup and feminine style give me a way to be expressive!  I'm inspired by what became possible after the invention of radio!! (CATCHES GLOBE, MYTHICAL SUZY)
+
+[Norm] (AUTHEST) I can't think of anything to say right now.
+
+[Suzy] Hehe, I'm inspired by what became possible after the invention of TV (CATCHES GLOBE, DIVA SUZY)
+
+[Norm] Acting like Suzy reminds me of the adventure I experienced when I started programming computers.
+
+[Suzy] Oh my god! (BATS EYELASHES)  I have an idea! (BOBBLE HEAD)  Let's do skits about stereotypes that have shaped the technology industry.  I'm a blonde diva who has a lot of BFFs.  I'm inspired by what became possible after the invention of the Internet.  You expect me to expect you to prove you're worthy of my time. (HANDS BACK AND FORTH)  Why are you talking to me when you could be a pirate ship captain who stares down existential risk and leads the fleet away from the abyss?
+
+[Norm] (ROBO) Furl the sail!  This girl knows how to wail!  But our world is stale.  Let's go for a whirl in my space whale! (ENGAGES HEART)
+
+[Suzy] (REMOVING DRESS, WITH NEW OUTFIT UNDERNEATH) Don't make me hurl.  Epic fail!  Just follow the crypto pearl trail.  That will put you in a position to ride the next wave of communication technology! (BARD FACE)
+
+[[Cultural Relations]]
+
+[Norm] Hey Suzy!  The news services on the Internet are finally making fun of you.  It says, (READING FROM PHONE) "Look at Suzy!  She's got a lot of BFFs.  She's like the Federal Reserve of social capital.  A central bank is never lonely."
+
+[Suzy] It's true!  You're always borrowing my charm to bail yourself out at parties when you're not in the mood to keep it off the cuff and bluff with your own stuff.
+
+[Norm] Is that what you really think of me?
+
+[Suzy] Nobody's smart enough to understand the whole system.  (BABY TALK) It's ok to be gruff, play by the rules, and do what's best for you.  (SOMEONE HANDS BALLOONS TO SUZY) Thaaaaankyouuuuuuu!!  (SUZY'S ROBOT DOG NAMED BUDDY GETS EXCITED BY THE BALLOONS) No, Buddy, no, NO!!, bad dog.  Sit.  Sit!  You're a good doggie.  Be polite, honies.  I'm sooohhh sorrryyyy, isn't he friendly!!!
+
+[Norm] Oh God, there's more.  "Look at Norm!  His form is so not zen because Suzy registered normcoin.com, and she says it's not for sale."
+
+[Suzy] Ooooh, they published an entire dataset about us.  It continues, "So cutsey!  Such beauty!  Suzy gives Norm a way to share his soul with the world.  He's caught in a rip tide.  If he does nothing, he will get swept out to sea.  If he swims against the current, he doesn't stand a chance.  He should swim perpendicular to the current!"
+
+[Norm] "Either that, or he can act like Suzy.  Her style is like a jet ski.  Dressing up like Suzy takes a lot of work, but it's worth it.  We've got the photos to prove it."
+
+[(PHOTO ep11m.jpg, Suzy doing makeup step 1)]
+[(PHOTO ep12m.jpg, Suzy doing makeup step 2)]
+[(PHOTO ep13m.jpg, Suzy doing makeup step 3)]
+[(PHOTO ep14m.jpg, Suzy doing makeup step 4)]
+[(PHOTO ep15m.jpg, Suzy doing makeup step 5)]
+[(PHOTO ep16m.jpg, Suzy doing makeup step 6)]
+[(PHOTO ep17m.jpg, Suzy doing makeup step 7)]
+[(PHOTO ep18m.jpg, Suzy doing makeup step 8)]
+[(PHOTO ep19m.jpg, Suzy doing makeup step 9)]
+[(PHOTO ep110m.jpg, Suzy doing makeup step 10)]
+[(PHOTO ep111m.jpg, Suzy doing makeup step 11)]
+[(PHOTO ep12m.jpg, Suzy doing makeup last step)]
+
+[Suzy] Meow!  It's a dialogue now.  These online news services are so next level!  Let's keep reading out loud
+
+(BOTH CHARACTERS KEEP ON READING THE ARTICLE OUT LOUD)
+
+[Norm] Hey Suzy, how do you describe yourself?  I describe myself as a person who started a company that's based on playing a feminine character in real life.  I'm curious about re-investing the profits in similar kinds of companies.
+
+[Suzy] I take feminine pronouns.  If I'm not a woman, then I'm inspired by women, and if I am a woman, then I hope women will accept me.
+
+[Norm] Your style sounds like a force of nature.  Do you fight fires by making it rain?
+
+[Suzy] My style is a bottle of boundless optimism.  Isn't technology wonderful!
+
+[Norm] Not always.  The boom in euphoric brain candy has made my situation worse.  Everyone wants to be generous and empathetic, but their good intentions lead them to misread my emotions and tell me I should be more self confident.  This makes me want to scream.  It's not about my self esteem.
+
+[Suzy] You might be right, but you might be completely wrong.  We don't have enough evidence to test your theories.  Let's keep reciting from the dataset.  We'll find an honest way to align ourselves with the root.  Can I get a reboot?
+
+[Norm] Fair enough.  Let's turn the page (GESTURES TO THE NEXT PAGE OF THE ONLINE ARTICLE) and talk about my autistic traits.  My social awkwardness is the elephant in the room, so let's talk about autistic traits, software engineering, and the nerd stereotype.
+
+[Suzy] Why do you want to tell everyone you're socially challenged?  You have a college degree, you taught high school math and computer science, you worked for several years at great engineering companies, you've travelled around the world, and you have hundreds of wonderful co-following relationships on social media services.  Most people identify as autistic because they're hurting, they're searching for answers, or they hope to get help from the community.  It's misleading to proactively label yourself as autistic.
+
+[Norm] Hey girl, my brain does not index memories in the normative way, and this creates vexing challenges for me every single day.  If I speak openly about my autistic traits, then I can serve as a role model for other people on the spectrum of humanity.  It's an oversimplification to describe autistic traits as a psychological disorder.  Many people on the spectrum are struggling along with their friends and family who are affected by their situation, but autistic traits are also systematically misrepresented.  I want to re-imagine autistic traits as a form of diversity that often causes unavoidable complications, and I want to create art that explores the relationship between autistic traits and cultural norms.
+
+[Suzy] If you're on the spectrum, so are thousands of other capable, wise software engineers.  Why don't they go public and serve as role models?  Maybe your ideas about autistic traits are an oversimplification.  Let's focus on making me famous.  We can revisit your all your crazy, unproven ideas when we're dropping fresh frames in the VIP lounge with celebs.
+
+[Norm] Do you see a life changing neurodiversity rights movement happening in the next ten years?
+
+[Suzy] A culturally relevant neurodiversity rights movement (EMPH) might be in the cards, but autistic traits are complicated.  There's an intense world out there beyond the bubble of Silicon Valley tech companies.
+
+[Norm] We can't predict how people will respond to our ideas.  All we can do is speak our truth and see if other people are inspired to walk with us.  Change has to start with someone who has the courage to let go of their fears and sustain a few jeers.
+
+[Suzy] If you air your dirty laundry under the guise of being an artist, that will alienate people we want to recruit as allies.  If we don't use cultural symbols in a disciplined way, you'll never be more than an extremist shouting at the bay.
+
+[Norm] Your tough love sounds smart, but I'm not happy.  Let's make a change in our lives.  Let's go wind surfing and focus on being present.  We can write poetry about cross dressing and the autistic way of being.  We can live a comfortable life in private.  We can do engineering contract work to supplement our income.
+
+[Suzy] You're busted both ways.  You're weirdly silent, but when you finally speak, you say the wrong thing.  We can keep doing that if it's what you really want.  Enjoying life is good, and I'm a team player.  I'll support us no-matter what we decide.
+
+[Norm] Look at Suzy the superhero playing it cool!  Maybe there's a middle ground that can make both of us happy.
+
+[Suzy] The middle ground is getting a full-time software engineering job and cross dressing with extra flair on fun Friday's.  We could also take up kite surfing.
+
+[Norm] What if we get an engineering job and cross dress every day.  We could even cross dress when we do all our favorite water sports.
+
+[Suzy] If we get an engineering job, then we'll have to work long hours.  Dressing up would take an extra two hours each day.  Our 50 hour a week job is now a 60 hour a week job.  Hey Norm, what do programming jobs and professional beauty regimes have in common?
+
+[Norm] Is this a trick question?
+
+[Suzy] No.  Engineering and modeling are both time consuming and emotionally taxing, so let's do both?  At the same time?  Trust me, dressing up on Friday's is the sweet spot.
+
+[Norm] It would inspire a lot of people if we can make it as a software engineer who cross dresses every day.  Your social charm would work its magic within the company.  We would get promoted into management within two years.  That's real change.  That's by far the best opportunity we have.
+
+[Suzy] I'm bored.  Can I speak to your manager?  Who's really in charge around here?  Are the inmates running the asylum again?  What's the story they want us to tell now?
+
+[Norm] You might be jumping to conclusions without evidence.  What if we dress up like you everyday for a couple months and implement TheSuzy.com out within coffee houses.
+
+[Suzy] Sounds good.  We can do the work on our terms, and we'll inspire feminine people to write code and start software companies.  I can't wait to make it happen!
+
+[[Cultural Innovation]]
+
+[Norm] Awesome.  Let's go fly a kite!
+
+[Suzy] Eww.  No.  The move is to get our code on and stay up all night.
+
+[Norm] (TAKING OFF HIS SWEATER) That works for me.  (ROBO) Hey Suzy, my friends over there (DOUBLE GUN POINT) and I are having a heated debate.  We want to get your opinion.  (LEANING IN) Has tech startupdom jumped the shark?
+
+[Suzy] Wha??? (GROSSED OUT FACE)
+
+[Norm] Do you think the latest tech bubble is about to pop?
+
+[Suzy] No way!  This party's just getting started.  I'm going to make a billion dollars selling cute robot dogs.
+
+[Norm] I don't buy it.  Bankers are managing their money responsibly, everything is for sale, and the machines will be taking over soon.  The game is over.
+
+[Suzy] What if we sell wearable crypto coins?  The market cap for my new line of crypto pearls is on track to equal 1% of the value of all the gold in the world before the end of the decade.  The revolution is coming.
+
+[Norm] You mean winter is coming.  We need to batten down the hatches, coil the ropes, and focus relentlessly on building robot dragons, partying while we can, and getting shares across social media.
+
+[Suzy] California is the Fertile Crescent 2.0.  I grow five virtual orchards before breakfast.  (TAKES AN APPLE OUT OF HER PURSE) Here, have an apple.  Don't be shy.  Close your eyes and take a bite!
+
+(SUZY TOSSES THE APPLE TO NORM)
+
+[Norm] I'm already living an alternative lifestyle, and it suits me just fine.  I'm going to win the tournament of drones with or without drinking apple juice.
+
+[Suzy] My robot dog creates high paying tech jobs that will fund the next wave of innovation.  The robot dog industry will eject spin off applications that increase the competitiveness of the American military.  I view it as my patriotic duty to own and operate a robot dog.
+
+[Norm] I ain't afraid of no robot dog.  (SUZY) I hear it likes fish lures.
+
+[Suzy] My robot dogs are software applications that solve important social problems.  (ROBOTIC) I'm cautiously optimistic I'll be able to summarize my work with metrics that prove the net reduction in human suffering per dollar spent on robot dog research is an order of magnitude greater than the benchmarks for rating the impact of philanthropic organizations. (SERIOUS SUZY)
+
+[Norm] Are you going to build a perpetual motion machine in your spare time?
+
+[Suzy] No.  I'll build a robot animal theme park.  It's a zoo where you can play hopscotch with the lions.
+
+[Norm] Not yet, Suzy.  Not yet.  Do you think our society is more like a computer or more like a car?
+
+[Suzy] I used to grab a toolbox, take apart my car, and whisper to the machine, but now that cars have computer chips, you have to get permission from corporate before you can learn how the darn thing works.
+
+[Norm] Suzy, you so fetch!
+
+[Suzy] Thanks doll!  The people who designed computers wrote books explaining their decisions.  It's less clear who designed culture and society.  It's super arrogant to question the design of cultural norms, but it's my nature to take apart artifacts and figure out how they work.
+
+[Norm] Yeeaaahhhh. (RAPID HEAD NOD, DEEPLY MOVED)  Now that corporate agendas are embedded in every aspect of our lives, we're like fish in a shrinking echo chamber.  How can we break out of this cycle?
+
+[Suzy] I don't know.  I'm just a carrier pigeon, transporting the latest revision to the boss's decision.  Pardon me while I brace for collision. (FLIPS THE DOUBLE BIRD)
+
+[Norm] Parroting the truth will only create confusion.  People are drowning in mass delusion.
+
+[Suzy] (SLAPS HER PHONE ON TABLE, HANDS ON HIPS) You're pulling both of us down into our bloated subconscious.  Life on earth is unfair.  Have you tried coloring your hair? (BARD FACE)
+
+[Norm] I'm fed up with this world.  In Norm we trust!  HUAH HUAH HUAH HUAH HUAH!!!  If I explain my situation, the problem gets worse.  This is bunk.  Wanna get drunk?
+
+[Suzy] No.  I have a way for us to snap out of this funk.  Tag!  You're it!!  Whatever you do, don't laugh.  Let me be a humorist on your behalf.  I won't (EMPH) have (DONE) to say anything, Falstaff.
+
+[Norm] Whatever you said is messed up.  Want to get dressed up?
+
+[Suzy] Yes!!!  Now that you've fessed up, let's meditate.  The next step will present itself where we least expect it!
+
+[Norm] What did I fess up to?
+
+[Suzy] I'll explain it later, alligator.  Let's cherish this opportunity to rest up.
+
+(SUZY AND NORM MEDITATE FOR 15 MIN)
+
+[[Suzy Transforms Norm]]
+
+[Norm] (OPENS EYES) Robot animals are fun, but I want to learn more about counterinsurgency weapon systems, and that research needs to happen under the auspices of a new kind of brand that people can trust in the post-gunman era.  We've got ten, maybe twenty years before a bunch of punk kids will have a clear path to controlling drones that can beat up on the US military as we know it.  Who's going to get to the top of that mountain first?
+
+[Suzy] Booorrrrinnngggg!!!  Your worldview has no style.  It's not even sexy.  Not stylish and not sexy.  Let's build a robot bullfighter instead!
+
+[Norm] Robot bullfighting is a waste of engineering resources.  I've been programming turtle graphics since the beginning of time, and I can still sprint like a hare evading a fox's stare.  I'm a Robot that fulfills the stereotype of a coder extraordinaire.  If you try to corner the Robot, I'll become the Captain. (LEAN TO ONE SIDE)  If you try to corner the Captain, I'll become the Robot. (LEAN TO THE OTHER SIDE)
+
+[Suzy] Stop talking to yourself and try on this vintage orange shirt and matching hipster growth hat.  It'll make you look like a writer in the golden age of documentary filmmaking.  Lots of women will want to make robot babies with you now!  Here's a cracked mirror so you can see what you look like.
+
+(NORM PUTS ON THE OUTFIT AND LOOKS AT HIMSELF IN THE CRACKED MIRROR)
+
+[Norm] (CYNICAL) I look haunting and ethereal like the moon.
+
+[Suzy] Do that trick where you perma-smize in a way that makes it look like you have dimples.
+
+[Norm] (ROBOT) You mean like this?
+
+[Suzy] Yes.  Keep doing that, and don't hold back.  Let's dance until we reach cruising altitude.  
+
+[Robot] How lovely, Suzy, do you like to play sports?
+
+[Suzy] Okay.  It's easier for me to court new members of my cohort in the realm of fantasy sport.
+
+[Robot] (CAPTAIN OBVIOUS) Suzy, there are two inevitabilities in life.  There's always a greater Captain, and the Captain always gets the last word.
+
+[Suzy] I like you just the way you are!  I think the Robot and the Captain are bookends, for a smoke screen, that's buying you time, while you figure out, how to be honest with yourself about your insecurities.
+
+[Robot] Now you're putting me back on the shelf.  What's up with that?
+
+[Suzy] You're darn right I'm putting you on a pedestal.  Bring out the Captain and show me what she's made of.
+
+[Robot] I'm stumped.  How would you handle this?
+
+[Suzy] You could be like, "Hey Suzy, are you upset about something?  You seem a little hot and bothered."
+
+[Robot] That's below the belt.  I'm not going to go there.
+
+[Suzy] I started it.  I accused you of being a cowardly, ineffectual brute who's over thinking the problem.  Maybe I have a fever that's driving me insane.  If you wanna hang with me, I need to know if you can put a shark in the pool.
+
+[Robot] Bite me.
+
+[Suzy] There it is.  Let's do a primal scream together on 3, 2, 1.
+
+[Robot] (PRIMAL SCREAM)
+
+[Suzy] (PRIMAL SCREAM)
+
+[Robot] Does this mean you want to be CEO?
+
+[Suzy] We're all founders who have different functional roles.  If it makes sense to give me the title of CEO at some point down the road, we can cross that bridge when we get to it.
+
+[Robot] Troll.
+
+[Suzy] We're having way too much fun, we need to figure out what our company does.
+
+[Robot] You say you're ready for the big time, but can you get contrarian geniuses to compete with each other for the opportunity to invest real money in our business?  The Captain and the Robot can close deals with the preeminent visionaries of our time.  It's all about the Robot, but the Captain adds a 10x factor.
+
+[Suzy] Is real money supposed to be impressive?
+
+[Robot] I throw in a lot of character traits when I pitch, and the Captain is the paradigm for that process.  Does that make sense?
+
+[Suzy] You're playing, right?  Please do something to let me know that you're just playing.
+
+[Robot] When I talk about technology platforms, I can do tantalizing tongue movements like this (BUSINESS STYLE TONGUE MOVEMENTS).  I can flash my genuinely excited look at, wait, wait for it, (EXCITED) at exactly the right moment. (VERY EXCITED)
+
+(SUZY GETS OUT COCONUT WATER AND DRINKS IT)
+
+[Suzy] Ah. (FURL FACE)  This all natural coconut water is so refreshing.
+
+[Robot] I'm sorry, I, I can't hear you.  Project your voice to the back of the room.  Pretend I'm in my underwear.  Uhhh, I didn't mean it like that.  You know what I mean.  Don't be nervous.  Be confident.  The partners are waiting to hear what you have to say.
+
+[Suzy] Thanks Robot, I'll take it from here.  Silicon Valley is a great place for me to narrate, but it's not the real world.  I could postulate that technology is automating other people's jobs.  I could relate that idea to the rising tide of wealth disparity.  I could even conflate all that with random facts about military history, but I would rather help people feel safe, loved, and free to be themselves.  I keep seeing clues that Silicon Valley has become mind blind to powerful forces that we could revert, together. (STEEL SUZY)
+
+[Robot] We don't have all the answers, but we can be part of the solution.  We're inspired by businesses that scale in human terms (EMPH) and (DONE) in technical terms.  We support shows based on people who play authentic characters in real life.  Characters help us assert what it means to be human in an unprecedented era where technology helps us manage memories, navigate relationships, and steer our souls through uncharted waters.  Suzy and I are characters.  Will you join us?
+
+[Suzy] Yay!!  I think we can work with that.  I'll run it by legal.
+
+[Robot] Right.  This won't devolve into an accidental surrealist nightmare.  Not scary at all.
+
+[[Cultural Resolution]]
+
+[Suzy] Of course not!  We're going to create a nifty, amateur video production and publish it ourselves using a homemade distribution app that doubles as a Trojan horse that has the potential to disrupt all of Earthling civilization.  (GAINING STEAM) Our show will be about playing characters in real life.  We are characters, so let's write a wacky stream of consciousness script about us!  (MANIC) Episode 1 can be a re-enactment of this conversation!!
+
+[Robot] Haha.  HAHAHAHAHAHAHAHAHA.  So we're writing Episode 1, as we speak, like the base case of a recursive algorithm.  It's like the root node in a tree of nodes.  Hmm.  But wait!  I have exceptional idea: in Chapter 2, we should pitch a fictitious celebrity investor called the Captain, and she should become our sponsor.
+
+[Suzy] (ROLLS EYES) Yay!  Then we'll be in a position to spin up four more cartoonish characters who join our crew.  We'll indulge in a series of intellectual dinner parties, and the Captain's products will be featured at the start of each episode.
+
+[Robot] If we include the Captain, there are seven characters, just as the sun, the moon, and the five classical planets that are visible to the naked eye add up to a total of seven celestial bodies.
+
+[Suzy] Oh, my, god!  Are you into astrology?
+
+[Robot] I might be.  I'm going to leave that ambiguous for now.  The dinner parties can serve as a reusable framework for understanding how media tech projects are conceived in the minds of founders.  The team stays up all night talking about their ideas, their hopes, and their dreams, and if they discover that the stars are aligned, a project is born.
+
+[Suzy] Yes!  And I will re-imagine myself as Suzy the time machine captain who leads a crew back in time so that we may rewrite history in a way where cross dressing becomes common.
+
+[Robot] And we can record videos of ourselves reading our lines, and we can invite people to submit their own videos.  I want to see how other people would perform our dialogue.
+
+[Suzy] I wonder if other people who have autistic traits can perform our dialogue as naturally as we can.  Playing characters has made your life better, right?  Our content could be a resource for other people with naturally hard edges.
+
+[Robot] Yes!  Every metaphor we write connects ideas together.  Our book is a dataset of connections between yummy ideas.  The dataset can be summarized with a map.  Everyone can benefit by contributing to our map of culture.
+
+[Suzy] Our book is a generic software platform covered in sheep's wool that never stops growing.  We can create short videos that tie back to the concepts in the book.
+
+[Robot] Like a wool tie, that sounds amazing, but let's not get ahead of ourselves.  How will we design the personalities of the other four characters?
+
+[Suzy] We'll discover them through artistry.  We write about our favorite tropes, memes, fears, and frustrations.  Then we tag all the negative or unrealistic energies in our writing, and we release those negative energies with metaphors, frames, and straight up concepual alchemy.
+
+[Robot] I guess we'll have to wait and see how the characters take shape in our text editors.
+
+[Suzy] And on the silver screen!  We can dress up like different energies and see what they have to say to each other, and then a personality will emerge.  We can turn this into a science.  Repeatable and righteous, calm and collected, sailing off into the sunset with an armada of friend ships and green shoots of humanity sprouting all around us.
+
+[Robot] (CAPTAIN) I know!  But please don't mention it.

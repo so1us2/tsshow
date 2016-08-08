@@ -1,0 +1,69 @@
+Copyright 2016, Tsuzy LLC. All Rights Reserved.
+
+[[[|7:TheSuzy Pergraph Tutorial]]]
+
+This book is a container for a duality of a technical outline of links to structured data content pages and a fashion show.
+
+[[Technical Intro]]
+
+[(CODE
+CEO screencast about Pergraph::readonly
+. every word and speaker is clickable
+. generic UI shows source and target objects
+. word, phrase, sentence, frame, speech, section
+. video, image, direction, code, episode, book, show
+. aggregations of word counts per speaker, etc.
+
+CTO screencast about Pergraph::adminonly
+. commenting as a remote admin
+. approving notifications on your server
+. object diffs from republished text diffs
+. show aggregations on log data
+
+CMO screencast about Pergraph::api
+. chatting with Suzybot
+. PerQL search queries
+. anti-spam methods
+)]
+
+[[First Part]]
+
+[Per1] About Pergraph, TheSuzy, and Suzybot
+
+[Per1A] Overview of Pergraph, the open source semantic web software
+
+[Per1B] Summary of computer programming using test case based grading of programs written in Perql, the programming and query language that's included with Pergraph (covering numbers, strings, logic, loops, arrays, functions, recursion, and pergraphs)
+
+[Per1C] Introduction to using Pergraph to perform tasks that involve data mining and machine learning
+
+[Per1D] Tour of TheSuzy.com's open source code base and best practices for running your own node in the semantic web
+
+[Per1E] Building a chatbot called Suzybot that is capable of solving well defined classes of automatically gradeable problems
+
+[Per1F] All about the TheSuzy moderator network and the master plan for working together as a community to add knowledge to the Pergraph
+
+[Per1H] Profiles of organizations and individuals that are contributing to the Pergraph
+
+[[Remaining Part]]
+
+[Per2] Extending Suzybot to include knowledge about popular culture and other knowledge that will make it an effective friend, ally, and conversationalist for other humans and/or chat bots
+
+[Per3] Create an audio visual avatar for Suzybot, both for use in virtual worlds and for use with drone mounted tablet computers that allow Suzybot to participate in live social events
+
+[Per4] The adventures of Suzybot with an emphasis on other celebs who become its BFF
+
+[Per5] Guide to using Suzybot to enhance productivity in professional software engineering teams; This will be a step in the direction of relying on chatbots to write all the code
+
+[Per6] Forward looking explanation of how Suzybot will and perform the seventh and final part of the seventh book
+
+[Per7] This final part of the final book will be written in the style of TheSuzy.com Show, and it will fulfill Tsuzy LLC's mission of creating intelligent software that can create a human readable data set about the growth of its mind
+
+[[TheSuzy Fashion Show]]
+
+The following photos of Suzy and her wardrobe were taken in North Carolina in 2016.
+
+[CMO] And here we have Suzy starting off the show in her classic white and black horizontal stripped sun dress.
+
+[CTO] And this is Suzy's mirror image, mSuzy, wearing a gray sports dress with modern yoga styling.
+
+[CEO] And so on.
