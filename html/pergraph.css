@@ -1,0 +1,541 @@
+/* Copyright 2016 Tsuzy LLC.  All rights reserved. */
+
+body {
+  font-family: 'Josefin Slab', serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+p.copyright {
+  font-size: 80%;
+  margin: 5px;
+}
+
+a {
+  font-family: 'Josefin Slab', serif;
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.debuglog {
+  font-family: 'Courier New', serif;
+  text-decoration: underline;
+  color: #333388;
+}
+
+a.frame_header {
+  font-family: Helvetica, Georgia, Verdana; font-size: 90%;
+  color: #555;
+}
+
+input.txt {
+  color: #FFFFFF;
+  background-color: #70dc70;
+  border: 1px inset #70dc90;
+}
+
+input.cmd {
+  color: #000000;
+  background-color: rgb(250, 250, 175);
+  border: 1px outset rgb(255, 255, 200);
+  cursor: pointer;
+}
+
+table.section_contents {
+  border: solid black 1px;
+}
+
+td.table_heading {
+  background-color: #CCC;
+}
+
+span.readable_text {
+  font-family: Helvetica, Georgia, Verdana; font-size: 90%;
+}
+
+div.shaded {
+  background: #DDDDDD;
+}
+
+h3 {
+  margin-top: 0px;
+}
+
+pre {
+  margin-top: 0px;
+}
+
+input.cmd {
+  color: #333333;
+  background-color: #EEEEEE;
+  border: 1px outset #CCCCCC;
+}
+
+div.viewcontent {
+  color: #555555;
+  background-color: #E3E3E3;
+  border: 1px outset #8B8B8B;
+  padding: 5px;
+  width: 600;
+}
+
+div.frame_header {
+  background-color: #BBB;
+  height: 25px;
+  padding-bottom: 2px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+/* For ChatClient: */
+
+.chat-client {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+
+  width: 180px;
+  height: 250px;
+
+  background-color: white;
+  border: 1px solid #555;
+
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 12px;
+}
+.chat-client a {
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #BBB;
+}
+
+.chat-client .title-bar {
+  background-color: #999;
+  color: #555;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 2px;
+  padding-top: 4px;
+  height: 15px;
+}
+
+.chat-client .title-bar .chat-title {
+  display: inline-block;
+  max-width: 145px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.chat-client .title-bar .btn {
+  float: right;
+  color: #777;
+  margin-left: 5px;
+}
+.chat-client .title-bar .btn:hover {
+  color: #555;
+  cursor: pointer;
+}
+
+.chat-client .chat-container {
+  /* Hidden before user is logged in */
+  display: none;
+}
+
+.chat-client .txt-input {
+  width: calc(100% - 4px);
+  margin: 2px;
+
+  height: 45px;
+}
+.chat-client .chat-log {
+  height: 174px;
+  overflow-y: scroll;
+  font-size: 12px;
+  padding: 3px;
+}
+
+.chat-log .chat-party-name {
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 3px;
+}
+
+.chat-log .chat-message-text {
+  display: inline-block;
+}
+
+.chat-log .chat-timestamp {
+  display: none; /* hide for now */
+}
+
+.chat-client .btn-submit {
+  display: none; /* hide for now */
+}
+
+/** chatbot settings stuff **/
+.settings-container {
+  padding: 10px;
+  display: none;
+}
+
+.settings-container .btn-settings-close {
+  cursor:pointer;
+}
+.settings-container .btn-settings-close:hover {
+  color: #555;
+}
+
+.settings-container .btn-logout {
+  display: inline-block;
+  padding: 3px 6px 3px 6px;
+  color: #000000;
+  border: 1px solid #555;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.settings-container .btn-logout:hover {
+  background-color: #BBB;
+  border: 1px solid #999;
+}
+
+/** chatbot login stuff **/
+
+.login-container {
+  padding: 10px;
+}
+
+.login-container #select-provider {
+  display: none; /* shown dynamically */
+}
+
+.login-container iframe {
+  display: none;
+}
+
+.login-container .login-choice input {
+  display:none;
+}
+
+.login-container > * {
+  margin-bottom: 10px;
+}
+
+.login-container .login-error {
+  display: none;
+  color: red;
+}
+
+.login-container .terms-of-service {
+  display: block;
+  font-size: 10px;
+  font-family: sans-serif;
+  color: #555;
+}
+
+.login-container .login-choice input + label {
+  font-size: 12px;
+  display:inline-block;
+  padding: 4px 12px 4px 12px;
+  border: 1px solid #999;
+
+box-shadow: inset 0 1px 6px rgba(41, 41, 41, 0.2),
+                    0 1px 2px rgba(0, 0, 0, 0.05);
+
+  transition:         all 0.1s ease-in-out;
+  cursor: pointer;
+
+  border-color: transparent;
+  color: #555;
+}
+
+.login-container .login-choice input:checked + label {
+  background-image: linear-gradient(to top,#969696,#727272);
+  color: #E6E6E6;
+  text-shadow: 0 1px 1px rgba(40, 40, 40, 0.75);
+}
+
+.login-container .login-choice input:not(:checked) + label:hover {
+  background: #DDD;
+}
+
+.login-choice label:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.login-choice label:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+/* Comment Use Tooltips */
+
+.link-use-tip {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background-color: #333;
+  color: #DDD;
+  padding: 3px 5px 3px 5px;
+  top: 2em;
+}
+
+.link-use-tip ul {
+  margin: 0;
+  padding-left: 3em;
+}
+
+.link-use {
+  display: inline-block;
+  margin-right: 3px;
+  position: relative;
+  cursor: default;
+}
+
+.link-use-txt {
+  background-color: #EEE;
+  color: #888;
+  padding: 1px 3px 1px 3px;
+}
+
+
+.link-use-tip::after {
+   content: " ";
+    position: absolute;
+    bottom: 100%;  /* At the top of the tooltip */
+    left: 10px;;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.link-use:hover .link-use-tip {
+  display: block;
+}
+
+/* Comment-related styling */
+
+#create-comment-box {
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 12px;
+}
+
+#create-comment-box iframe {
+    border: none;
+    width: 700px; /* FIXME(acg): Auto-scale this based on content */
+}
+
+.comment-editor {
+  margin-top: 7px;
+  width: 400px;
+}
+
+.comment-editor-text {
+  border: 1px solid #DDD;
+  height: 100px;
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 12px;
+}
+
+.link-wrapper {
+  border-top: 1px solid #DDD;
+  padding-top: 5px;
+}
+
+.link-uses {
+  margin-left: 3px;
+}
+
+.comment, .article {
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 12px;
+  margin-bottom: 3px;
+}
+
+.recentObjectsWidget > * {
+  padding-top: 5px;
+  border-top: 1px solid #DDD;
+}
+
+.comment-source, .comment-target {
+  font-size: 10px;
+  margin-bottom: 3px;
+}
+
+.comment-source > * {
+  display: inline-block;
+}
+
+.comment a, .article a {
+  font-family: Helvetica, Georgia, Verdana;
+  margin-right: 3px;
+  color: #999;
+}
+.article a {
+  color: #555;
+}
+
+.tag-activity {
+  padding: 3px 4px 2px 4px;
+  background-color: #DDD;
+  color: #777;
+  display: inline-block;
+  font-size: 0.7em;
+  text-transform: uppercase;
+}
+
+.comment-source-url {
+  color: #DDD;
+}
+
+#nonadmin-comment-box, #nonadmin-comment-box a {
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 12px;
+}
+#nonadmin-comment-box {
+  max-width: 400px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #999;
+}
+#nonadmin-comment-box a {
+  text-decoration: underline;
+  text-decoration-color: #DDD;
+}
+
+.remoteObject {
+  border: none;
+  display: block;
+  height: 0px;
+  width: 100%;
+}
+
+.toggle-approve-remote {
+  padding-bottom: 5px;
+}
+
+.toggle-approve-remote > * {/
+  max-width: 400px;
+  margin-left: 100px;
+}
+
+.toggle-approve-remote button {
+  margin-right: 10px;
+  height: 30px;
+  vertical-align: top;
+  float: left;
+  margin-left: 10px;
+}
+
+.toggle-approve-remote button.approved {
+  color: #999;
+  border-color: #999;
+}
+
+/* Aggregation */
+iframe.aggregator {
+  display:none;
+}
+
+iframe.btn-follow {
+  border: none;
+  height: 22px;
+  width: 100px;
+  float: right;
+}
+
+a.btn-follow {
+  border: 1px solid #555;
+  font-family: Helvetica, Georgia, Verdana;
+  font-size: 14.4px;
+  display: inline-block;
+  padding: 2px 4px 2px 4px;
+  background-color: #777;
+  color: #DDD;
+}
+
+a.btn-follow .unfollow {
+  display: none;
+}
+
+a.btn-follow:hover {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #333;
+}
+
+a.btn-follow.following:hover > * {
+  display: none;
+}
+a.btn-follow.following:hover .unfollow {
+  display: inline;
+}
+
+/* Aggregation Settings */
+
+.settings-aggregators-header {
+  text-transform: uppercase;
+  font-size: 10px;
+  margin-top: 10px;
+  margin-bottom: 3px;
+  font-weight: bold;
+  color: #333;
+}
+.settings-aggregator-list {
+  max-height: 150px;
+  overflow-y: scroll;
+}
+.settings-aggregator > * {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
+.settings-agg-remove {
+  margin-right: 3px;
+  cursor: pointer;
+}
+.settings-aggregator:hover {
+  color: #999;
+}
+.settings-agg-title {
+  max-width: 130px;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+}
+
+/* Web Resource */
+.web-resource, .web-resource  a {
+ font-family: Helvetica, Georgia, Verdana;
+}
+.web-image {
+ float: left;
+ max-width: 150px;
+ margin: 5px;
+}
+.web-description {
+ font-style: italic;
+
+}
+
+/* Article, Markdown editing */
+.markdown-source {
+  min-width: 500px;
+  min-height: 250px;
+}
+#edit {
+  display: none;
+}
+#edit:target {
+  display: block;
+}
+#txt-article-title {
+  font-size: 1.3em;
+  margin-bottom: 0.5em;
+  min-width: 500px;
+}
