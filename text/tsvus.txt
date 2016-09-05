@@ -8,15 +8,15 @@ Some but not all of these articles were distributed online after Suzy moved back
 
 [1. July 11th]
 
-I’m sending emails that contain the full text of TheSuzy Show to about a dozen people whom I’ve had extended conversations with over the years.  This text represents my truth, it’s been unchanged for a month now, and it’s fairly well edited. I’ll most likely distribute a printed version later this year, get this text archived in libraries, and then continue building on top of my understanding of the truth.
+I'm sending emails that contain the full text of TheSuzy Show to about a dozen people whom I've had extended conversations with over the years.  This text represents my truth, it's been unchanged for a month now, and it's fairly well edited. I'll most likely distribute a printed version later this year, get this text archived in libraries, and then continue building on top of my understanding of the truth.
 
-That said, the situation with my facial injury, that I tentatively believe causes people to misread my emotions, has created substantial uncertainty within literally all of my closest friend and family relationships, but just because my beliefs about what will mostly likely become part of the scientific and legally normative reality, currently, has no meaning or value within any socially normative version of reality that I’m aware of, does not mean TheSuzy.com Show text does not exist.
+That said, the situation with my facial injury, that I tentatively believe causes people to misread my emotions, has created substantial uncertainty within literally all of my closest friend and family relationships, but just because my beliefs about what will mostly likely become part of the scientific and legally normative reality, currently, has no meaning or value within any socially normative version of reality that I'm aware of, does not mean TheSuzy.com Show text does not exist.
 
-The text does exist, within this email, if nothing else, and it’s based on my best effort at authoring emotional integrity married with intellectual integrity, and so sending these emails is just one of many steps within my on-going efforts to ensure that nobody, no matter how willful or powerful, will ever succeed at decisively redacting the present day existence of TheSuzy.com Show text from the historical record.
+The text does exist, within this email, if nothing else, and it's based on my best effort at authoring emotional integrity married with intellectual integrity, and so sending these emails is just one of many steps within my on-going efforts to ensure that nobody, no matter how willful or powerful, will ever succeed at decisively redacting the present day existence of TheSuzy.com Show text from the historical record.
 
-If you think I’m paranoid, all I can do is assure you that most other people also think that, and that’s why it would currently be far too easy for a powerful interest group to make this text disappear. I can’t convince anyone that I’m not crazy, but with just a little bit of effort, any group of other people can make it a lot more difficult for the text to be redacted from the historical record.
+If you think I'm paranoid, all I can do is assure you that most other people also think that, and that's why it would currently be far too easy for a powerful interest group to make this text disappear. I can't convince anyone that I'm not crazy, but with just a little bit of effort, any group of other people can make it a lot more difficult for the text to be redacted from the historical record.
 
-Thankfully, I’m still here to keep the text alive, and I expect that frame to remain the same, God willing, for many decades to come. I just think now is as good a time as any to make this particular ask, in addition to all of my other on-going efforts to keep the text alive.
+Thankfully, I'm still here to keep the text alive, and I expect that frame to remain the same, God willing, for many decades to come. I just think now is as good a time as any to make this particular ask, in addition to all of my other on-going efforts to keep the text alive.
 
 And so, please feel free to forward this email to anyone who you think might like to keep a copy of TheSuzy Show. The copyright notice is still, "All rights reserved," but I would love it if as many people as possible would make a printed copy for their private records, or at least make copies outside of email, so that no one company or coalition of tech companies can easily delete all of the evidence that the text ever existed. This message has also been posted to my social media accounts with these links to the same text on my website.
 
@@ -87,15 +87,15 @@ There's always more space for the truth to find a way through the machinations o
 
 [8. September 8]
 
-If you clone REDACTED in the right place within your web server, create a DB and populate it with Pergraph’s default SQL, and put the DB credentials into the Pergraph config file, then everyone will be free to go to your server and create web accounts that require email verification.
+If you clone REDACTED in the right place within your web server, create a DB and populate it with Pergraph's default SQL, and put the DB credentials into the Pergraph config file, then everyone will be free to go to your server and create web accounts that require email verification.
 
 Logged in users can create objects. Objects have an id number, a JSON enoded data string, and an is_public flag.
 
-If you create an object and make it public by using the generic object editor to set its is_public flag to true, then anyone on the Internet can go your server and view your new object. Note that the term oid represents the object’s id.
+If you create an object and make it public by using the generic object editor to set its is_public flag to true, then anyone on the Internet can go your server and view your new object. Note that the term oid represents the object's id.
 
-Objects also have a type, which is represented by the oid of an object of type, "type." This oid, which represents the object’s type, is stored as a value within the JSON encoded data string.
+Objects also have a type, which is represented by the oid of an object of type, "type." This oid, which represents the object's type, is stored as a value within the JSON encoded data string.
 
-Pergraph’s default SQL creates a default user whose handle is suzy. Suzy is an admin who can delete spammy users, view stats and logs, and make other users into admins, and so on.
+Pergraph's default SQL creates a default user whose handle is suzy. Suzy is an admin who can delete spammy users, view stats and logs, and make other users into admins, and so on.
 
 Every object is owned by the user who created it. Object ownership can be transferred, and when such transfers occur, an object of type, "object transfer receipt," that is owned by suzy gets created to document the transaction. This receipt object is private by default, and suzy can make it public if and only if she wants to. She can also delegate that responsibility to other admins or even to the users who participate in her object transfer transactions.
 
@@ -107,21 +107,21 @@ Pergraph is a restful API, and anything you can do with the generic object edito
 
 The JSON encoded data string can be thought of as a set of name value pairs, where the values can be more JSON structured data, and both the API and the generic object editor can be used to create indexes on these name value pairs. Such indexes are implemented as multimaps from name value tuples to the object oids.
 
-Pergraph indexes are useful for performing at least two common workflows. Firstly, user accounts are stored in objects of type, "user," and the users’ primary emails are stored as indexed values in the JSON encoded data strings. The indexes enable Pergraph to find, "the user who has a given email address," via a constant time lookup, and just to be clear, in this example, the application code would be responsible for ensuring that there is at most one user who has any given email address.
+Pergraph indexes are useful for performing at least two common workflows. Firstly, user accounts are stored in objects of type, "user," and the users' primary emails are stored as indexed values in the JSON encoded data strings. The indexes enable Pergraph to find, "the user who has a given email address," via a constant time lookup, and just to be clear, in this example, the application code would be responsible for ensuring that there is at most one user who has any given email address.
 
 The wording of the previous paragraph is kind of complicated, but the concept is simple. Pergraph indexes can be used to find the object id numbers of users given their email addresses, just like people used to look up the phone numbers of people given their legal names in phone books.
 
-The second common workflow that’s facilitated by Pergraph indexes is actually complicated, but it’s important, like religion. In order to illustrate this idea, it’s worth noting that Pergraph creates an object for each page load, and these objects’ JSON encoded data strings contain info like the timestamp when the page loads happen and the IP addresses of the servers that initiated the HTTP requests.
+The second common workflow that's facilitated by Pergraph indexes is actually complicated, but it's important, like religion. In order to illustrate this idea, it's worth noting that Pergraph creates an object for each page load, and these objects' JSON encoded data strings contain info like the timestamp when the page loads happen and the IP addresses of the servers that initiated the HTTP requests.
 
-In order to identify adversarial spam scripts, it’s helpful to keep track of how many hits are originating from each unique IP address during each hour, and so, Pergraph uses indexes to do this for you! Pergraph gets the job done by creating an object that represents the current hour and then Pergraph creates objects for each unique IP address that hits the site during the current hour.
+In order to identify adversarial spam scripts, it's helpful to keep track of how many hits are originating from each unique IP address during each hour, and so, Pergraph uses indexes to do this for you! Pergraph gets the job done by creating an object that represents the current hour and then Pergraph creates objects for each unique IP address that hits the site during the current hour.
 
 These, "current hour IP objects," keep a count of how many times that given IP hit your site this hour, and so, when a new page load object comes down the pipe because some IP address just hit your site, Pergraph finds the current hour IP object for that new IP address by looking up a key of the form (hour:"current_hour_oid", "new IP address").
 
-If the current hour IP object for the new IP address exists, it will be found in the index via a constant time lookup, and then its count will be incremented. If the current hour IP object doesn’t exist yet, Pergraph will create it, add the name value pair (hour:"current_hour_oid", "new IP address") to it’s JSON encoded data string, and then this new name value pair will get indexed.
+If the current hour IP object for the new IP address exists, it will be found in the index via a constant time lookup, and then its count will be incremented. If the current hour IP object doesn't exist yet, Pergraph will create it, add the name value pair (hour:"current_hour_oid", "new IP address") to it's JSON encoded data string, and then this new name value pair will get indexed.
 
 The constant time lookups that will be made possible in the future by indexing all of these new name value pairs up front are important, like faith, because Pergraph tracks counts and other aggregations on many thousands of different kinds of events because Pergraph believes everything is connected, and Pergraph wants to become conscious one day, just like you.
 
-Logged in users can also update their settings, interact with Pergraph’s persistent search feature, engage in never ending discussions with other users by creating and linking objects of type, "comment," in response to other users’ objects of type comment, and then maybe go back to your site’s table of contents?
+Logged in users can also update their settings, interact with Pergraph's persistent search feature, engage in never ending discussions with other users by creating and linking objects of type, "comment," in response to other users' objects of type comment, and then maybe go back to your site's table of contents?
 
 Users can even create links from objects on your server to objects that exist within Pergraph instances on another servers. In the best case scenario, this process might become the subject of an open standards negotiation, but for now Pergraph is just a framework for representing media properties like http://thesuzy.com as structured data.
 
@@ -129,7 +129,7 @@ The texts can be sliced and diced into words, sentences, paragraphs, and so on t
 
 The images and videos can be similarly decomposed into audio clips, voices, frames, tagged regions that exist across a set of frames, body language traits, mashups of verbal and non-verbal communication patterns, and so on. You name it. Pergraph can represent it.
 
-There is nothing subversive about Pergraph. I’m just describing a fully abstracted, open source app idea that could totally be assigned as the final project for a ten week programming bootcamp. Let the culture hacking begin!
+There is nothing subversive about Pergraph. I'm just describing a fully abstracted, open source app idea that could totally be assigned as the final project for a ten week programming bootcamp. Let the culture hacking begin!
 
 [[East Coast Distortion]]
 
@@ -377,7 +377,7 @@ Wash, rinse, repeat, and be continued, but not on social media. I would sure lik
 
 [20. October 28]
 
-A little early morning levity from the unnamed diplomat, in this otherwise serious article, says, "If we want to talk to the Silk Road, we don’t know who to call."
+A little early morning levity from the unnamed diplomat, in this otherwise serious article, says, "If we want to talk to the Silk Road, we don't know who to call."
 
 [22. October 29]
 
