@@ -262,10 +262,10 @@ ab routine * 4
 [(CODE
 
 breath
-. balance walk
-. single nostrel
 . floor belly in
 . kneeling force
+. single nostrel
+. mountain breath
 
 voice warmup
 . neck release
