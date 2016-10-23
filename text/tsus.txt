@@ -187,7 +187,7 @@ ball peaks
 
 boat
 ab kicks
-ball twists
+russian twist
 
 standing
 . grab foot out
@@ -211,7 +211,7 @@ ab-ad-duction
 dead lift routine
 hands and knees extensions
 
-russian twists
+ball twists
 back kick extensions
 lunges with twists
 
@@ -261,12 +261,8 @@ ab routine * 4
 
 [(CODE
 
-morning start
-. balance walk
-. motion meditation
-. muscle roller routine
-
 breath
+. balance walk
 . single nostrel
 . floor belly in
 . kneeling force
@@ -275,7 +271,7 @@ voice warmup
 . neck release
 . head inversion
 . hands above head
-. clasp/pray behind back
+. clasp behind back
 
 start voice
 . tounge hah
@@ -295,8 +291,8 @@ finish voice
 
 integration
 . name
-. anthem
 . pledge
+. anthem
 
 stretch1
 . standing IT band
@@ -305,7 +301,7 @@ stretch1
 . standing straddle/seated
 . wall calf
 . hand on wall
-. seated touch toes-/+
+. seated touch toes
 
 feet1
 . one foot balance
@@ -320,16 +316,7 @@ stretch2
 . basic straddle
 . eyes up block calf
 . arm on wall/strap arms
-. backbend/twists
-
-stretch 1+-
-. flat back standing IT band
-. hands on floor toe touch
-. expansive standing quad
-. standing straddle routine
-. dynamic wall calf
-. fingers down hand on wall
-. deep seated toe touch
+. backbend/kneeling
 
 stretch3
 . floor IT band arm/pigeon
@@ -337,8 +324,8 @@ stretch3
 . lunge with back foot grab
 . butterfly and side strech
 . eyes down block calf
-. elbow triceps/back reach
-. kneeling back/fish pose
+. elbows up/back reach
+. twists/fish pose
 
 feet2
 . blind balance
@@ -357,12 +344,18 @@ stretch4
 
 alternative
 . lotus routine
-. walk, pose, spin
-. head stand routine
-
-song and dance
-. balance boxing
+. muscle roller
+. balance walk
 . trills, scales
+
+stretch 0
+. flat back standing IT band
+. hands on floor toe touch
+. expansive standing quad
+. standing straddle routine
+. dynamic wall calf
+. fingers down hand on wall
+. deep seated toe touch
 
 )]
 
