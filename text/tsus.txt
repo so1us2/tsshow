@@ -76,11 +76,11 @@ J: Rev = revolutionary reverend
 9: Geek2 = inventor of the Internet
 8: Rev++ = parody of the rev
 7: Master Chief
-6: Holier Than
+6: Trancing
 5: Aggressive
 4: Striving
 3: Dismissive
-2: Pleading
+2: Blaming
 )]
 
 [[DECK B]]
@@ -141,9 +141,9 @@ J: News = over the top parody of the Captain; foolhardy
 7: Sizus
 6: Judgy
 5: Devious
-4: Driven
-3: Playful
-2: Seductive
+4: Driving
+3: Playing
+2: Joking
 )]
 
 [[Exercise script]]
@@ -154,28 +154,29 @@ ball balance
 . seated, kneeling
 . lying front/back
 
-sun sat cat warmup
-. down dog repeating
-. . to side twist
-. . to side arm stand
+down dog repeating
+. to side twist
+. . arm stand
+. . sun sat cat
 . to warrior 12
-. . to triangle
-. . to half moon
+. . triangle
+. . half moon
 . to deep lunge
-. . to warrior 3
-. . to one leg high
+. . warrior 3
+. . one leg high
 . plank cobra/updog
 crow tree mountain
 
 ...
 
+dance warmup
 chair with leg lift back
-jump between lunges
 feet push abs
+jump between lunges
 
 side dead lift
 one leg dead lift
-sliding side lunges++
+sliding side lunges
 
 step ups
 balance squats
@@ -201,15 +202,14 @@ arm routine
 . hands back and up
 . hands around
 . rotator cuff
-. heave up
 
-full squats
 bicep pullups
+full squats
 front pull ups
 
 ab-ad-duction
 dead lift routine
-hands and knees extensions
+cat extensions
 
 ball twists
 back kick extensions
@@ -217,12 +217,11 @@ lunges with twists
 
 calf lifts
 wheel roll
-split squat with pulsing
+split squats
 
-bendi routine
-. twist and rear lifts
-. legs over and back
-. band high/low
+twist and rear lifts
+legs over and back
+band high/low
 
 ...
 
@@ -230,9 +229,9 @@ crescent knees
 kick routine
 tricep lifts
 . swing behind
-. deep chair
+. behind head
 
-shoulder shurgs
+shoulder shrugs
 arm rotations
 ball chest routine
 . push, press, rotations
@@ -255,6 +254,7 @@ ab routine * 4
 . left, right
 . knees out
 . hands up to toes
+
 )]
 
 [[Mindful stretch]]
