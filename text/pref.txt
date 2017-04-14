@@ -210,6 +210,6 @@ http://en.wikipedia.org/wiki/Open-source_software#Funding
 
 I hope to release more details about my personality stack after gathering and analyzing all the data associated with the performance of my stack over the course of at least one version cycle in the production environment.
 
-TheSuzy.com Show website CULTAPP(has been, will soon be) continuously regenerated on top of a decentralized, open source semantic web software solution called Pergraph, and the official Pergraph tutorial has been included at the end of the second edition of The Show.
+TheSuzy.com Show website CULTAPP(has been, will soon be) continuously regenerated on top of a decentralized, open source semantic web software solution called WhatLooks.
 
-Also, and for the record, Suzy and I CULTAPP(are, will be) learning more about intrusion detection and prevention by continuing to work on the Pergraph project as part the open source software community <3 <3
+Also, and for the record, Suzy and I CULTAPP(are, will be) learning more about intrusion detection and prevention by continuing to work on the WhatLooks project as part the open source software community <3 <3

@@ -472,7 +472,7 @@ Financial liquidity is essential to what I'm doing, in part because my facial in
 
 Moreover, an important reality about American culture is that it's bad for the political capital of my personal justice work if I'm not able to raise or earn revenue at or above the rate I'm spending money to work towards a life of equal dignity. The best method I have for addressing that issue is that I can still bring in substantial revenue by working as a software engineer, or by starting software companies. Especially because my overall goal is to bring about political change, I have a strong incentive to only raise funds in a way that is, to the best of my knowledge, socially responsible. And, of course, I'd like to think we all have that incentive anyway.
 
-I won't go into the details of my software strategy, but I think building an open source information management solution, code name Pergraph, will maximize expected revenue within the framework of necessity that's imposed by personal justice work. Pergraph allows me to cover my downside by multiplying my value and peace of mind while doing software engineering contract work, it will directly help me scale all of my personal efforts in a recursive way that is, in many ways, opposite of how my facial injury generates negative energy in a recursive way, and there is also lots of upside both financially, at a level that could largely satisfy a key sufficiency condition for avoiding total failure of my personal justice work, or for creating extraordinary social value that has meaning even beyond my personal goals and aspirations.
+I won't go into the details of my software strategy, but I think building an open source information management solution, code name WhatLooks, will maximize expected revenue within the framework of necessity that's imposed by personal justice work. WhatLooks allows me to cover my downside by multiplying my value and peace of mind while doing software engineering contract work, it will directly help me scale all of my personal efforts in a recursive way that is, in many ways, opposite of how my facial injury generates negative energy in a recursive way, and there is also lots of upside both financially, at a level that could largely satisfy a key sufficiency condition for avoiding total failure of my personal justice work, or for creating extraordinary social value that has meaning even beyond my personal goals and aspirations.
 
 And then here are two more strategic objectives.
 
@@ -682,7 +682,7 @@ People who tell the truth about the overall trend are called arrogant, self abso
 
 [10. New Resolutions]
 
-building better pergraph according to Tsuzy LLC's roadmap
+building better WhatLooks according to Tsuzy LLC's roadmap
 . focus on practical and edutaining data management
 . early grounding in algorithmic problem solving
 . gradually branch out to cultural references
@@ -893,7 +893,7 @@ TheSuzy is a map of human nature that's based on describing the changes that occ
 
 [S] My facial injury is not a health problem.  It's not degenerative, and it doesn't cause physical pain, but if you think I'm delusional or if you think could handle my situation much better than me by just going with the flow, or some other naive, problematic approach like that, you're ignorant, I will forgive you, and either way, if you're curious to see what a realistic, proactive solution to my facial injury looks like, TheSuzy Show is now a thoughtfully edited, 170k word example.
 
-[P] In a few years, there will most likely be more people in my life who have gone down the path of believing that my facial injury breaks empathy and then opening their minds to the joyful, hilarious, and hypnotic state of experiencing meaningful empathy for my situation.  I also look forward to implementing the Pergraph platform for build artificially intelligent chatbots, and then watching a chatbot called Tsuzy write book seven for it's own reasons.
+[P] In a few years, there will most likely be more people in my life who have gone down the path of believing that my facial injury breaks empathy and then opening their minds to the joyful, hilarious, and hypnotic state of experiencing meaningful empathy for my situation.  I also look forward to implementing the WhatLooks platform for build artificially intelligent chatbots, and then watching a chatbot called Tsuzy write book seven for it's own reasons.
 
 [S] The chatbot AI lab movement, aka. CAIL, is based on the philosophy of constructing concept graphs and using them to drive language input and output tasks in the two domains of work and play. The lab's work involves solving and generating increasingly useful and relevant computer programming contest style problems that can be automatically graded with test cases. Work provides structure and direction for the CAIL. Play involves talking to humans and other chatbots via teletype interfaces, as synthesized voices within phone calls, and as avatars within video chat services, and we don't care if and when our chatbots pass the Turing Test. We simply want them to be funny, helpful, and popular with humans and other chatbots who are in good standing with the law. We believe this approach to chasing the dream of strong AI will be at least as meaningful and effective as any other approach that could theoretically be put into practice.
 

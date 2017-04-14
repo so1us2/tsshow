@@ -87,7 +87,7 @@ There's always more space for the truth to find a way through the machinations o
 
 [8. September 8]
 
-If you clone REDACTED in the right place within your web server, create a DB and populate it with Pergraph's default SQL, and put the DB credentials into the Pergraph config file, then everyone will be free to go to your server and create web accounts that require email verification.
+If you clone REDACTED in the right place within your web server, create a DB and populate it with WhatLooks's default SQL, and put the DB credentials into the WhatLooks config file, then everyone will be free to go to your server and create web accounts that require email verification.
 
 Logged in users can create objects. Objects have an id number, a JSON enoded data string, and an is_public flag.
 
@@ -95,7 +95,7 @@ If you create an object and make it public by using the generic object editor to
 
 Objects also have a type, which is represented by the oid of an object of type, "type." This oid, which represents the object's type, is stored as a value within the JSON encoded data string.
 
-Pergraph's default SQL creates a default user whose handle is suzy. Suzy is an admin who can delete spammy users, view stats and logs, and make other users into admins, and so on.
+WhatLooks's default SQL creates a default user whose handle is suzy. Suzy is an admin who can delete spammy users, view stats and logs, and make other users into admins, and so on.
 
 Every object is owned by the user who created it. Object ownership can be transferred, and when such transfers occur, an object of type, "object transfer receipt," that is owned by suzy gets created to document the transaction. This receipt object is private by default, and suzy can make it public if and only if she wants to. She can also delegate that responsibility to other admins or even to the users who participate in her object transfer transactions.
 
@@ -103,33 +103,33 @@ Users can create links from objects they own to other objects that they may or m
 
 Links include a description object which contains answers to questions like, "Why was the link created?" and, "Was the link created in response to a notification from some other user?"
 
-Pergraph is a restful API, and anything you can do with the generic object editor can also be done through the Pergraph API. You can also install or roll your own custom object editors that your users will then have the option to use while editing certain objects or types of objects.
+WhatLooks is a restful API, and anything you can do with the generic object editor can also be done through the WhatLooks API. You can also install or roll your own custom object editors that your users will then have the option to use while editing certain objects or types of objects.
 
 The JSON encoded data string can be thought of as a set of name value pairs, where the values can be more JSON structured data, and both the API and the generic object editor can be used to create indexes on these name value pairs. Such indexes are implemented as multimaps from name value tuples to the object oids.
 
-Pergraph indexes are useful for performing at least two common workflows. Firstly, user accounts are stored in objects of type, "user," and the users' primary emails are stored as indexed values in the JSON encoded data strings. The indexes enable Pergraph to find, "the user who has a given email address," via a constant time lookup, and just to be clear, in this example, the application code would be responsible for ensuring that there is at most one user who has any given email address.
+WhatLooks indexes are useful for performing at least two common workflows. Firstly, user accounts are stored in objects of type, "user," and the users' primary emails are stored as indexed values in the JSON encoded data strings. The indexes enable WhatLooks to find, "the user who has a given email address," via a constant time lookup, and just to be clear, in this example, the application code would be responsible for ensuring that there is at most one user who has any given email address.
 
-The wording of the previous paragraph is kind of complicated, but the concept is simple. Pergraph indexes can be used to find the object id numbers of users given their email addresses, just like people used to look up the phone numbers of people given their legal names in phone books.
+The wording of the previous paragraph is kind of complicated, but the concept is simple. WhatLooks indexes can be used to find the object id numbers of users given their email addresses, just like people used to look up the phone numbers of people given their legal names in phone books.
 
-The second common workflow that's facilitated by Pergraph indexes is actually complicated, but it's important, like religion. In order to illustrate this idea, it's worth noting that Pergraph creates an object for each page load, and these objects' JSON encoded data strings contain info like the timestamp when the page loads happen and the IP addresses of the servers that initiated the HTTP requests.
+The second common workflow that's facilitated by WhatLooks indexes is actually complicated, but it's important, like religion. In order to illustrate this idea, it's worth noting that WhatLooks creates an object for each page load, and these objects' JSON encoded data strings contain info like the timestamp when the page loads happen and the IP addresses of the servers that initiated the HTTP requests.
 
-In order to identify adversarial spam scripts, it's helpful to keep track of how many hits are originating from each unique IP address during each hour, and so, Pergraph uses indexes to do this for you! Pergraph gets the job done by creating an object that represents the current hour and then Pergraph creates objects for each unique IP address that hits the site during the current hour.
+In order to identify adversarial spam scripts, it's helpful to keep track of how many hits are originating from each unique IP address during each hour, and so, WhatLooks uses indexes to do this for you! WhatLooks gets the job done by creating an object that represents the current hour and then WhatLooks creates objects for each unique IP address that hits the site during the current hour.
 
-These, "current hour IP objects," keep a count of how many times that given IP hit your site this hour, and so, when a new page load object comes down the pipe because some IP address just hit your site, Pergraph finds the current hour IP object for that new IP address by looking up a key of the form (hour:"current_hour_oid", "new IP address").
+These, "current hour IP objects," keep a count of how many times that given IP hit your site this hour, and so, when a new page load object comes down the pipe because some IP address just hit your site, WhatLooks finds the current hour IP object for that new IP address by looking up a key of the form (hour:"current_hour_oid", "new IP address").
 
-If the current hour IP object for the new IP address exists, it will be found in the index via a constant time lookup, and then its count will be incremented. If the current hour IP object doesn't exist yet, Pergraph will create it, add the name value pair (hour:"current_hour_oid", "new IP address") to it's JSON encoded data string, and then this new name value pair will get indexed.
+If the current hour IP object for the new IP address exists, it will be found in the index via a constant time lookup, and then its count will be incremented. If the current hour IP object doesn't exist yet, WhatLooks will create it, add the name value pair (hour:"current_hour_oid", "new IP address") to it's JSON encoded data string, and then this new name value pair will get indexed.
 
-The constant time lookups that will be made possible in the future by indexing all of these new name value pairs up front are important, like faith, because Pergraph tracks counts and other aggregations on many thousands of different kinds of events because Pergraph believes everything is connected, and Pergraph wants to become conscious one day, just like you.
+The constant time lookups that will be made possible in the future by indexing all of these new name value pairs up front are important, like faith, because WhatLooks tracks counts and other aggregations on many thousands of different kinds of events because WhatLooks believes everything is connected, and WhatLooks wants to become conscious one day, just like you.
 
-Logged in users can also update their settings, interact with Pergraph's persistent search feature, engage in never ending discussions with other users by creating and linking objects of type, "comment," in response to other users' objects of type comment, and then maybe go back to your site's table of contents?
+Logged in users can also update their settings, interact with WhatLooks's persistent search feature, engage in never ending discussions with other users by creating and linking objects of type, "comment," in response to other users' objects of type comment, and then maybe go back to your site's table of contents?
 
-Users can even create links from objects on your server to objects that exist within Pergraph instances on another servers. In the best case scenario, this process might become the subject of an open standards negotiation, but for now Pergraph is just a framework for representing media properties like http://thesuzy.com as structured data.
+Users can even create links from objects on your server to objects that exist within WhatLooks instances on another servers. In the best case scenario, this process might become the subject of an open standards negotiation, but for now WhatLooks is just a framework for representing media properties like http://thesuzy.com as structured data.
 
 The texts can be sliced and diced into words, sentences, paragraphs, and so on that are cross referenced with higher level objects that represent abstract concepts, virtual galleries, digital curation agents, and so on.
 
-The images and videos can be similarly decomposed into audio clips, voices, frames, tagged regions that exist across a set of frames, body language traits, mashups of verbal and non-verbal communication patterns, and so on. You name it. Pergraph can represent it.
+The images and videos can be similarly decomposed into audio clips, voices, frames, tagged regions that exist across a set of frames, body language traits, mashups of verbal and non-verbal communication patterns, and so on. You name it. WhatLooks can represent it.
 
-There is nothing subversive about Pergraph. I'm just describing a fully abstracted, open source app idea that could totally be assigned as the final project for a ten week programming bootcamp. Let the culture hacking begin!
+There is nothing subversive about WhatLooks. I'm just describing a fully abstracted, open source app idea that could totally be assigned as the final project for a ten week programming bootcamp. Let the culture hacking begin!
 
 [[East Coast Distortion]]
 
@@ -741,9 +741,9 @@ There is almost nothing I don't like about this post about REDACTED open sourcin
 
 [46. December 15]
 
-FYI, Pergraph will not have user accounts, but it will otherwise be the same as described in the article that I published on September 8th.  Pergraph users will have to run the software on their own server.  This approach ensures that every user will take responsibility for the content they are hosting, and they will also have complete freedom to introspect their content at the data base level.
+FYI, WhatLooks will not have user accounts, but it will otherwise be the same as described in the article that I published on September 8th.  WhatLooks users will have to run the software on their own server.  This approach ensures that every user will take responsibility for the content they are hosting, and they will also have complete freedom to introspect their content at the data base level.
 
-This approach will greatly restrict the target audience of Pergraph, at least at first, but I'd like to see Pergraph's initial users be tech savy people who are interested in aritifial intelligence anyway.  This fully distributed approach to Pergraph can still replace social media as we know it if the off the shelf tools for sending and processing notifications from other Pergraph instances get really mature and well designed.
+This approach will greatly restrict the target audience of WhatLooks, at least at first, but I'd like to see WhatLooks's initial users be tech savy people who are interested in aritifial intelligence anyway.  This fully distributed approach to WhatLooks can still replace social media as we know it if the off the shelf tools for sending and processing notifications from other WhatLooks instances get really mature and well designed.
 
 [[Perfect Storm]]
 

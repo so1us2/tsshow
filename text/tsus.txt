@@ -4,366 +4,11 @@ Copyright 2016, Tsuzy LLC. All Rights Reserved.
 
 None of the content in this book was distributed online prior to the release of of this book.
 
-[[Detailed Intro]]
-
-There are 108 distinct characters that appear within Book 1 of TheSuzy.com Show, and the other six books just reuse Book 1's cast of characters.  54 of these characters appear in the serious version of Book 1, the other 54 appear in the parody version, and all of the characters in the parody version were created by taking each of the 54 characters in the serious version and inverting his or her gender.
-
-I have personally gone down the path of playing all of these different characters in real life, and I chose to go down this path for no reason in particular, but if you must know, the character called mRyzus is my true authentic self, but only when I'm feeling completely healthy and awake.  If I become sick or tired, then I become more like the character called Norm, who is the same person as mRyzus but with a flat affect.
-
-That said, Suzy is also my true authentic self.  Suzy is half man and half woman, and so I can be Suzy without identifying as primarily one gender or another.  mRyzus is also half man and half woman.  In fact, mRyzus can be thought of as Mr. Yzus, where Yzus is, of course, just Suzy spelled backwards. Anyone can be both Suzy and mRyzus, and everyone's version of these characters will be unique to them!
-
-The following two sections, which specify two decks, of 54 cards plus two jokers each, provide a definitive list of the names of the characters in TheSuzy Show, but I will punt, for now, on providing an in-depth definition of these characters.  If you click on a character's name, you will descend by one level of abstraction into the murky underworld of the Pergraph, where myself, Suzybot, and maybe a few other humans or chatbots will theoretically never stop adding additional information that helps define the true meaning of all these characters.
-
-The additional information about these characters that can be found in the Pergraph is stored as structured data.  For example, you'll eventually be able to view all the clips of video in which myself or someone else attempts to speak in the voice of the character or embody the character on camera.  The video itself can be broken up into even more fine grained chunks of structured data.
-
-For example, individual facial expressions could be tagged by identifying the series of frames in a video where the expression occurs, and a rough outline can be drawn on each of these frames, such that the outlines that contain effectively all and only all of the visual evidence of the facial expression.
-
-In this way, it could be possible to see all of the different facial expressions that the character is known to make, and then those expressions can be cross referenced with any and all aspects of the context in which the expression was made, such as the words the character was saying before and after, or the tone of the previous speech to which the character was responding, and so on and so forth.  This is the promise of the power of structured data in the rapidly approaching era of intelligent machines! Amen and namaste.
-
-[[DECK A]]
-
-[(CODE
-J1: mRyzus
-J2: Root
-
-A: Norm
-K: GrowthCap
-Q: mOp/Cyzus = Auth/Robot
-J: Rogamath
-0: Radtronic
-9: Susan
-8: Sue
-7: C[6] mayhem loving spy
-6: C[5] silicon beach surfer
-5: C[4] nice military captain
-4: C[3] comm flight captain
-3: C[2] modern NATO spy
-2: C[1] all American 'cap
-
-A: GrowthNorm
-K: Tech/Mastermind
-Q: Suzybot
-J: MadSusan
-0: MadSuzy
-9: GrowthSusan
-8: GrowthSue
-7: Suz = SDevil
-6: Sus = Coach
-5: Rad = Cowboy
-4: Rob = Rowar
-3: Sue = Lady
-2: Rog = Rogagent
-
-A: Richa
-K: Nyzus
-Q: Visionary
-J: Ryzus
-0: WOM
-9: Bendi
-8: Scoundrel
-7: Suz = Operative
-6: Sus = Agent
-5: Rad = Salesman
-4: Rob = Dealer
-3: Sue = Writer
-2: Rog = Lawyer
-
-A: God = deep Plato; long dusty hair
-K: Sally = composite parody of Suzybot
-Q: Geek1 = inventor of the computer
-J: Rev = revolutionary reverend
-0: Pirate = all's fair in love and war
-9: Geek2 = inventor of the Internet
-8: Rev++ = parody of the rev
-7: Master Chief
-6: Trancing
-5: Aggressive
-4: Striving
-3: Dismissive
-2: Blaming
-)]
-
-[[DECK B]]
-
-[(CODE
-J1: Suzy
-J2: Jurrsc
-
-A: Norma
-K: GAusthain
-Q: mCyzus/Cyzus = Autha/Robota
-J: Yogamath
-0: Radtronica
-9: Syousan
-8: "Syoue"
-7: A[6] parody of tech industry
-6: A[5] American spoken word poet
-5: A[4] mysterious writer person
-4: A[3] ironic train conductor
-3: A[2] the duality of melancholy
-2: A[1] pacifist European leader
-
-A: GrowthSuzy
-K: Techbot/Madsci
-Q: Unto
-J: GrowthRoma
-0: GrowthTronic
-9: MadMind
-8: MadTronic
-7: Suz = minion mastermind
-6: Sus = women's rugby coach
-5: Rad = cowgirl/country singer
-4: Rob = american euro trash
-3: Sue = impish prince parody
-2: Rog = southern business woman
-
-A: EvilEye
-K: MeanPerson
-Q: EyesWide
-J: BondGuy
-0: SchemeMan
-9: Mayhememe
-8: ManicDreamer
-7: Suz = BQueen
-6: Sus = FDirector
-5: Rad = FPirate
-4: Rob = FCommando
-3: Sue = FWizard
-2: Rog = FScholar
-
-A: GlibCap = a leader who has to be emotionally dishonest
-K: BritPi = over the top parody of a British Pirate
-Q: Jester = self deprecating entertainer of a dictator
-J: News = over the top parody of the Captain; foolhardy
-0: Robo = parody of a surfer; deep, wise, and passionate
-9: Com-- = geeked out, Americanized parody of the Jester
-8: Comm = dry humorist who parodies all the other characters
-7: Sizus
-6: Judgy
-5: Devious
-4: Driving
-3: Playing
-2: Joking
-)]
-
-[[Exercise script]]
-
-[(CODE
-three way ball arm lifts
-ball balance
-. seated, kneeling
-. lying front/back
-
-down dog repeating
-. to side twist
-. . arm stand
-. . sun sat cat
-. to warrior 12
-. . triangle
-. . half moon
-. to deep lunge
-. . warrior 3
-. . one leg high
-. plank cobra/updog
-crow tree mountain
-
-...
-
-dance warmup
-chair with leg lift back
-feet push abs
-jump between lunges
-
-side dead lift
-one leg dead lift
-sliding side lunges
-
-step ups
-balance squats
-chair reverse lunges
-
-two feet ab lift and twist
-legs and arms out plank
-ball peaks
-
-boat
-ab kicks
-russian twist
-
-standing
-. grab foot out
-. side and back leans
-. grab foot behind head
-
-...
-
-arm routine
-. side up
-. hands back and up
-. hands around
-. rotator cuff
-
-bicep pullups
-full squats
-front pull ups
-
-ab-ad-duction
-dead lift routine
-cat extensions
-
-ball twists
-back kick extensions
-lunges with twists
-
-calf lifts
-wheel roll
-split squats
-
-twist and rear lifts
-legs over and back
-band high/low
-
-...
-
-crescent knees
-kick routine
-tricep lifts
-. swing behind
-. behind head
-
-shoulder shrugs
-arm rotations
-ball chest routine
-. push, press, rotations
-
-leg lifts
-reverse star
-back lifts
-
-ball crunches
-side to side
-eagle on ball
-
-inner ab crunches
-pelvis lifts
-face down stars
-
-bicep curls
-ball pushups
-ab routine * 4
-. left, right
-. knees out
-. hands up to toes
-
-)]
-
-[[Mindful stretch]]
-
-[(CODE
-
-breath
-. floor belly in
-. kneeling force
-. single nostrel
-. mountain breath
-
-voice warmup
-. neck release
-. head inversion
-. hands above head
-. clasp behind back
-
-start voice
-. tounge hah
-. keh keh
-. ngah ngah
-. tounge huh
-. closed yawn
-. jaw isos
-
-finish voice
-. chest
-. soft
-. hard
-. sinus
-. nose
-. head
-
-integration
-. name
-. pledge
-. anthem
-
-stretch1
-. standing IT band
-. touch toes/gentle hurdler
-. standing quad/gentle lunge
-. standing straddle/seated
-. wall calf
-. hand on wall
-. seated touch toes
-
-feet1
-. one foot balance
-. roll ball under foot
-. pull toes back with hand
-. toes back and forth
-
-stretch2
-. sitting/floor IT band leg
-. basic hurdler
-. basic lunge
-. basic straddle
-. eyes up block calf
-. arm on wall/strap arms
-. backbend/kneeling
-
-stretch3
-. floor IT band arm/pigeon
-. full hurdler
-. lunge with back foot grab
-. butterfly and side strech
-. eyes down block calf
-. elbows up/back reach
-. twists/fish pose
-
-feet2
-. blind balance
-. ball sit quads
-. ankle alphabet
-. hamstring lifts
-
-stretch4
-. foot behind head
-. standing splits
-. ground splits
-. center split
-. plow routine
-. back on ball
-. on back
-
-alternative
-. lotus routine
-. muscle roller
-. balance walk
-. trills, scales
-
-stretch 0
-. flat back standing IT band
-. hands on floor toe touch
-. expansive standing quad
-. standing straddle routine
-. dynamic wall calf
-. fingers down hand on wall
-. deep seated toe touch
-
-)]
-
 [[Stream of Consciousness Zero]]
 
 [To whom it may concern]
 
-Just to give you some background, I'm building a platform for building artificially intelligent chatbots.  The platform is called Pergraph, and it's inspired my experiences with going out in Silicon Valley dressed up as a bold, usually blonde, diva who is ostensibly named Suzy.
+Just to give you some background, I'm building a platform for building artificially intelligent chatbots.  The platform is called WhatLooks, and it's inspired my experiences with going out in Silicon Valley dressed up as a bold, usually blonde, diva who is ostensibly named Suzy.
 
 People treat me differently when I'm dressed as Suzy, and then I respond differently, and then they respond to my response, and so on, and I believe this feedback loop of social stimulus and response drove some kind of neuroplasticity in my brain that expanded my real emotional self, and this struck me as healthy, up to a point, because, as Suzy, I can easily get a lot of positive attention in almost any kind of room in a city like San Francisco, but I also found that as Suzy I was getting boxed into a stereotype that was incompatible and logically inconsistent with my existing and equally stereotype based identity as a nerdy engineer, and so I responded to that aggregate social stimulus by producing and editing a collection of my own text, image, and video artifacts that's now called TheSuzy Show, and this collection can be read for free at TheSuzy.com website.
 
@@ -377,19 +22,19 @@ It's like, sighted people, in aggregate, immediately get what I'm all about when
 
 [Pivotal Announcements]
 
-I redid the thesuzy.com website, and the text is almost completely finished.  I just need to add a transcript of TheSuzy Fashion Show, which I could maybe commentate without a script, so that's easy, and then a standardized and unremarkable screen cast about how to explore the content as structured data, using the Pergraph features that I will be implementing over the next few months.
+I redid the thesuzy.com website, and the text is almost completely finished.  I just need to add a transcript of TheSuzy Fashion Show, which I could maybe commentate without a script, so that's easy, and then a standardized and unremarkable screen cast about how to explore the content as structured data, using the WhatLooks features that I will be implementing over the next few months.
 
 I also slogged through one more thorough edit of the whole text to remove all the obscene punctuation, and so on, that I was experimenting with before.  Then I need to record videos of myself reading all of the text's 170k words, twice, once seriously and once as parody, with the genders of all the characters switched, and then TheSuzy Show will be done.  Like completely done!  I can't wait!
 
 After I have finished creating all the content for TheSuzy Show, including definitive versions of the read through videos, I'm also still planning to publish a print version of this content, and if anyone you know might be interested in helping me do that or introducing me to someone who could help, please let me know!
 
-Pergraph will be released as open source software at REDACTED.  This will be the MVP version of the decentralized semantic web master plan that I've been talking about for years, with the important nuance that there are no user accounts.  Every user must run their own instance of the software on their own server, such that when you comment on content that is displayed within someone else's Pergraph page, you are technically hosting your comment on your server and sending a notification to the other person, who may or may not have a bot running that automatically adds a shallow link to your comment, which can then be viewed inline within their Pergraph pages.  For more information, check out the project's README file.
+WhatLooks will be released as open source software at REDACTED.  This will be the MVP version of the decentralized semantic web master plan that I've been talking about for years, with the important nuance that there are no user accounts.  Every user must run their own instance of the software on their own server, such that when you comment on content that is displayed within someone else's WhatLooks page, you are technically hosting your comment on your server and sending a notification to the other person, who may or may not have a bot running that automatically adds a shallow link to your comment, which can then be viewed inline within their WhatLooks pages.  For more information, check out the project's README file.
 
 And, so, over the next few weeks, I'll be creating or re-creating all of the video of myself reading the text of TheSuzy Show while also demonstrating the voices and body language patterns of the 108 different characters who appear in the show.
 
-And, if everything goes according to my plan, over the next few months, I'll be creating an open source version of Pergraph, which is the semantic web software that I started writing in order to generate the pages of this new version of Suzy's website.
+And, if everything goes according to my plan, over the next few months, I'll be creating an open source version of WhatLooks, which is the semantic web software that I started writing in order to generate the pages of this new version of Suzy's website.
 
-And, finally, over the next few years, I hope I will have the extraordinary opportunity to keep on adding new capabilities to the search feature of the underlying Pergraph object viewer that powers Suzy's website, and these new capabilities will transform that search feature into a benevolent chatbot who shall be code named Suzybot until further notice.
+And, finally, over the next few years, I hope I will have the extraordinary opportunity to keep on adding new capabilities to the search feature of the underlying WhatLooks object viewer that powers Suzy's website, and these new capabilities will transform that search feature into a benevolent chatbot who shall be code named Suzybot until further notice.
 
 [In other words, part 0]
 
@@ -509,9 +154,9 @@ But, convincing the arbiters of truth, that exist via mainstream society and cul
 
 My belief is that my facial injury causes other people to misread my emotions in a way that causes them to feel empathy in a problematic way where they try to generously accommodate me, but in a way that is harmful to me, and when I point out that what I really need is for people to admit that they misread my emotions because of my facial injury, then the conversation quickly turns in a deeply bitter and sometimes adversarial negotiation that is exceeds the scope of private collaborative work.  My situation is like a big legal battle waiting to happen, but for messages in bottles.
 
-That said, TheSuzy Show has a new website, and I'm very happy with the site's clean, new design.  Personally, I'm feeling very confident that there are going to be seven books total.  That's one book for each chakra of the human spine.  The first six books are done, and the seventh book is also done in the sense that it's a fixed outline roadmap of links to technical articles about Pergraph, which I expect to be publishing in separate channels over the next few years.
+That said, TheSuzy Show has a new website, and I'm very happy with the site's clean, new design.  Personally, I'm feeling very confident that there are going to be seven books total.  That's one book for each chakra of the human spine.  The first six books are done, and the seventh book is also done in the sense that it's a fixed outline roadmap of links to technical articles about WhatLooks, which I expect to be publishing in separate channels over the next few years.
 
-2016 could be the year that I finally implement my vision for Pergraph, which has never been that complicated.  The software won't have user accounts, so Pergraph is nothing more than a sufficiently simple and flexible data management layer for supporting my expansive and nebulous idea for building AI chatbot avatars as an independent hobbyist.  I don't know if this idea will produce any results unless I stack the stack, so to speak, with heavy handed natural language processing, and so on, but there is, currently, nothing blocking me from trying.
+2016 could be the year that I finally implement my vision for WhatLooks, which has never been that complicated.  The software won't have user accounts, so WhatLooks is nothing more than a sufficiently simple and flexible data management layer for supporting my expansive and nebulous idea for building AI chatbot avatars as an independent hobbyist.  I don't know if this idea will produce any results unless I stack the stack, so to speak, with heavy handed natural language processing, and so on, but there is, currently, nothing blocking me from trying.
 
 [In other words, part 7]
 

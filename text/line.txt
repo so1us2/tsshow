@@ -4,44 +4,17 @@ Copyright 2016, Tsuzy LLC. All Rights Reserved.
 
 This outline of the key concepts and characters from the first book of TheSuzy Show is written in the composite voice of Technology circa 2015.
 
-
 [[Summary]]
 
-This outline begins with an explanation of the features of TheSuzy.com platform, which will be exposed via a RESTful API that is part a project called Pergraph.
+This outline begins with an explanation of the features of TheSuzy.com platform, which will be exposed via a RESTful API that is powered by an instance of a software solution called WhatLooks.
+
+WhatLooks is a distributed, open source platform for working with structured data.  The first version of WhatLooks will be an instance called WhatLooksGood that provides a read only API for exploring TheSuzy graph.
 
 The utility of the TheSuzy platform is then illustrated using a human readable outline of the map of culture that lives within TheSuzy.com Show.
 
-This outline is divided into the following four sections: Characters, Mythology, Full Circles, and Notes.
+The rest of this outline is divided into the following four sections: Characters, Mythology, Full Circles, and Notes.
 
 When you're ready to dive into the deep end, maybe skim the notes before reading the rest of the outline, and then re-reading The Notes, once again?
-
-
-[[Platform]]
-
-Pergraph is a distributed, open source software solution for working with graph-structured data.  The first version of Pergraph will be a read only API for spidering TheSuzy graph.
-
-TheSuzy graph contains the following tree-schema:
-
-[(CODE
-Show(version)
-. Episodes(title)[11]
-. . Sections(title)
-. . . Speeches(speaker)
-. . . . Inline_frames(label)
-. . . . . Sentences
-. . . . . . Phrases
-. . . . . . . Words(text)
-. . . Photos(caption)
-. . . Videos(caption)
-. . . . Video_still_frames(caption)
-. . . . . Tagged_regions(caption)
-. . . . Video_clips(caption)
-. . . . . Video_still_frames(caption)
-. . . . . . Tagged_regions(caption)
-)]
-
-The Pergraph, which is a super set of TheSuzy graph, is stored, in one or more open source reference implementations, at any given time, in some kind of third party storage layer or another.
-
 
 [[Characters]]
 
@@ -452,7 +425,7 @@ If The Original Show characters wear growth hats and throttle them either by rem
 
 [Problems]
 
-Speaking of which, there is something wrong with both Rogamath and the Captain.  Their concrete, personal problems have to do with the insanity of what they saw in war, and those problems are represented by the existence of mNorm, who appears in Ep1 but was not previously mentioned in The Pergraph Tutorial.
+Speaking of which, there is something wrong with both Rogamath and the Captain.  Their concrete, personal problems have to do with the insanity of what they saw in war, and those problems are represented by the existence of mNorm, who appears in Ep1 but was not previously mentioned in this outline.
 
 After the wars, which are represented by mSuzy, who appears alongside mNorm in Ep1, these two archetypal characters transferred their problems to TheDiva via TheFairy, both of which no longer exist, as a result.  In order to keep up appearances, TheDiva and TheFairy were replaced by Richa and a generic growth character called UnSuzy, respectively.
 
